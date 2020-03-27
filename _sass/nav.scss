@@ -4,7 +4,6 @@ nav {
     height: 1.4em;
     background-color: rgb(45, 168, 96);
     font-size: 2em;
-    
   }
 
 nav a {
@@ -18,4 +17,11 @@ nav a {
   nav a:hover {
     transform: scale(1.1);
     text-shadow: rgb(205, 218, 132) 5px 5px 10px;
+  }
+
+
+  @media screen and (max-width: 600px) {
+    nav {
+      font-size: 1.3em;
+    }
   }

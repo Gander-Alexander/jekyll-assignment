@@ -16,6 +16,8 @@ nav a { text-decoration: none; margin-left: 1em; margin-right: 1em; color: #cdda
 
 nav a:hover { transform: scale(1.1); text-shadow: #cdda84 5px 5px 10px; }
 
+@media screen and (max-width: 600px) { nav { font-size: 1.3em; } }
+
 .staff-list { display: flex; flex-wrap: wrap; justify-content: center; }
 
 .staff-list li { list-style: none; }
