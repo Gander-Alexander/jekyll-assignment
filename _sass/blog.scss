@@ -1,0 +1,33 @@
+.blog-card {
+    margin-left: 2em;
+    
+}
+
+.blog-card li {
+    list-style: none;
+    margin: 1em 1em 1em 1em;
+}
+
+.blog-card h2 {
+    margin-top: 1em;
+}
+
+
+
+.blog-card a {
+    color: white;
+    text-decoration: none;
+    transition: .4s ease;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.blog-card a:hover {
+   box-shadow: 0px 0px 10px yellow;
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   -ms-transform: skew(20deg,10deg); 
+   transform: skew(20deg,10deg);
+   margin-left: .1em;
+}

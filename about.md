@@ -1,0 +1,7 @@
+---
+layout: default
+title: About
+---
+# About page
+
+Created back in 1989 in Seattle, Washington Fruit Blog Co. has been the #1 fruit review company in the world. At first they were merely a two man team consisting of Marco and James who at first made the company as a side gig to show the world about their passion for fruit. And since that fist blog they created it was a massive hit down in 34 states within the USA. During the years of 1990 and 2000 is when they were at their peak. However the rising increase of both the price and demand for fruit became taxing on the two, as they did not have the funds to buy my fruit to review. To counteract this increase they risked it all and hired three new members to the team. There was Pepe Silvia the renowned food critic known far and wide for his imacculate taste buds, than there was Richard who was ok at tasting fruits however he is allergic to bananas. Finally there was Potato Gardner, and no he's not an actual potato it's just that's just the name his parents gave him. Potato hated fruit however this worked to provide blogs with a differnt perspective. It wasn't until 2018 that they began to use this site to post facts and reviews for fruits of all kinds.

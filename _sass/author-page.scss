@@ -1,0 +1,44 @@
+
+.name {
+    font-size: 4em;
+    margin-top: 2em;
+}
+
+.position {
+    margin-bottom: 1em;
+    font-size: 2.3em;
+    text-align: center;
+}
+
+
+.description {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.title {
+    font-size: 3em;
+}
+
+.posts {
+    margin-right: 2em;
+    margin-top: 2em;
+    text-align: end;
+    
+}
+
+
+
+.created-posts li {
+    list-style: none;
+}
+
+.created-posts a {
+    color: white;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.created-posts a:hover {
+    color: lightgreen;
+}

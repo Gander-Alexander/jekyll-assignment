@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans&display=swap");
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { font-family: 'Fira Sans', sans-serif; background-color: #3d584d; }
+
+.current { color: yellow; }
+
+h1 { font-family: 'Rubik', sans-serif; margin-top: .2em; margin-bottom: 1em; text-align: center; color: #25d382; }
+
+p { margin-left: 2em; margin-right: 2em; margin-bottom: 1em; color: lightgreen; }
+
+nav { display: flex; justify-content: end; height: 1.4em; background-color: #2da860; font-size: 2em; }
+
+nav a { text-decoration: none; margin-left: 1em; margin-right: 1em; color: #cdda84; transition: .3s ease-in-out; }
+
+nav a:hover { transform: scale(1.1); text-shadow: #cdda84 5px 5px 10px; }
+
+.staff-list { display: flex; flex-wrap: wrap; justify-content: center; }
+
+.staff-list li { list-style: none; }
+
+.staff-list p { margin: 1em 1em 1em 1em; }
+
+.staff-list h2, h3 { margin-bottom: .3em; text-align: center; }
+
+.staff-list a { text-decoration: none; border-bottom: solid black 2px; color: white; transition: .3s ease; }
+
+.staff-list a:hover { color: black; }
+
+.card { margin-left: 2em; margin-bottom: 2em; border: 1px solid black; border-radius: 20px; background-color: #2a832a; width: 320px; height: 300px; }
+
+.blog-card { margin-left: 2em; }
+
+.blog-card li { list-style: none; margin: 1em 1em 1em 1em; }
+
+.blog-card h2 { margin-top: 1em; }
+
+.blog-card a { color: white; text-decoration: none; transition: .4s ease; border-radius: 10px; padding: 3px; }
+
+.blog-card a:hover { box-shadow: 0px 0px 10px yellow; background-color: white; color: black; border-radius: 10px; -ms-transform: skew(20deg, 10deg); transform: skew(20deg, 10deg); margin-left: .1em; }
+
+.name { font-size: 4em; margin-top: 2em; }
+
+.position { margin-bottom: 1em; font-size: 2.3em; text-align: center; }
+
+.description { text-align: center; font-size: 1.2em; }
+
+.title { font-size: 3em; }
+
+.posts { margin-right: 2em; margin-top: 2em; text-align: end; }
+
+.created-posts li { list-style: none; }
+
+.created-posts a { color: white; font-size: 2em; text-decoration: none; }
+
+.created-posts a:hover { color: lightgreen; }
+
+.date { text-align: center; }
+
+.date a { text-decoration: none; color: white; }
+
+.date a:hover { color: black; }
+
+.content { margin-left: 10em; }
+
+.attribution { margin-left: 4em; }
+
+.links { margin-left: 10em; }
+
+.links li { list-style: square; }
+
+.links a { font-size: 1.3em; text-decoration: none; color: white; }
+
+/*# sourceMappingURL=style.css.map */

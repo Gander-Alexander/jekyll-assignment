@@ -1,0 +1,39 @@
+.staff-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.staff-list li {
+    list-style: none;
+}
+
+.staff-list p {
+    margin: 1em 1em 1em 1em;
+}
+
+.staff-list h2, h3 {
+    margin-bottom: .3em;
+    text-align: center;
+}
+
+.staff-list a {
+    text-decoration:none;
+    border-bottom: solid black 2px;
+    color: white;
+    transition: .3s ease;
+}
+
+.staff-list a:hover {
+    color: black;
+}
+
+.card {
+    margin-left: 2em;
+    margin-bottom: 2em;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(42, 131, 42);
+    width: 320px;
+    height: 300px;
+}
